@@ -1,1 +1,3 @@
 # Sample-QR-Attendance-System
+This is just a sample from my Grade 12 QR Attendance System.
+Further updates coming soon...
