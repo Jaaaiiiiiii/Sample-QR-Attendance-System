@@ -1,0 +1,7 @@
+mysql-connector-python
+pyserial
+gspread
+google-auth
+keyboard
+qrcode
+python-dotenv
